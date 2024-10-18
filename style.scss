@@ -12,8 +12,7 @@ header{
     display: flex;
     justify-content: space-evenly;
     align-items: center;
-    width: 100%;
-    height: 118px;
+    height: 19.732441471571907vh;
     background-color: #FF69B4;
 
 .logo{
@@ -41,24 +40,23 @@ ul{
 }
 
 .sobre{
-    width: 100%;
-    height: 377px;
+    height: 63.04347826086956vh;
     display: flex;
     background-color: #FFD9EC;
     justify-content: space-around;
     align-items: center;
 
     .psobre{
-        width: 587px;
-        height: 265px;
+        width: 45.859375vw;
+        height: 44.31438127090301vh;
         font-size: 25px;
         align-items: center;
         text-align: left;
     }
 
     .imgsobre{
-        width: 365px;
-        height: 355px;
+        width: 28.515625vw;
+        height: 59.364548494983275vh;
     }
 }
 
@@ -68,19 +66,18 @@ ul{
     justify-content: space-around;
     background-color: #FF69B4;
     color: white;
-    width:100%;
-    height: 262px;
+    height: 43.812709030100336vh;
 
     .imgconcientização{
-        width: 421px;
-        height: 234px;
+        width: 32.890625vw;
+        height: 39.130434782608695vh;
     }
 
     .pconcientização{
         align-items: center;
         font-size: 25px;
-        width: 700px;
-        height: 174px;
+        width: 54.6875vw;
+        height: 29.096989966555185vh;
     }
 }
 
@@ -89,19 +86,17 @@ ul{
     justify-content: space-evenly;
     align-items: center;
     background-color: #FFD9EC;
-    width: 100%;
-    height: 426px;
+    height: 71.23745819397993vh;
 
     img{
-        width: 250px;
-        height: 250px;
+        width: 19.53125vw;
+        height: 41.80602006688963vh;
     }
 }
 
 footer{
 background-color: #FF69B4;
-width: 100%;
-height: 143px;
+height: 23.91304347826087vh;
 display: flex;
 align-items: center;
 justify-content: space-around;
@@ -110,18 +105,18 @@ justify-content: space-around;
     justify-content: space-evenly;
     
     .link{
-        width: 57.84px;
-        height: 56px;
+        width: 4.51875vw;
+        height: 9.364548494983278vh;
     }
 
     .insta{
-        width: 58px;
-        height: 60.04px;
+        width: 4.53125vw;
+        height: 10.040133779264215vh;
     }
 
     .git{
-        width: 67px;
-        height: 67px;
+        width: 5.234375vw;
+        height: 11.20401337792642vh;
     }
 }
 
@@ -131,8 +126,8 @@ justify-content: space-around;
 }
 
 .laço{
-    width: 105px ;
-    height: 109px ;
+    width: 8.203125vw;
+    height: 18.22742474916388vh;
 }
 
 }

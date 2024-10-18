@@ -13,8 +13,7 @@ header {
   display: flex;
   justify-content: space-evenly;
   align-items: center;
-  width: 100%;
-  height: 118px;
+  height: 19.7324414716vh;
   background-color: #FF69B4;
 }
 header .logo {
@@ -38,23 +37,22 @@ header a {
 }
 
 .sobre {
-  width: 100%;
-  height: 377px;
+  height: 63.0434782609vh;
   display: flex;
   background-color: #FFD9EC;
   justify-content: space-around;
   align-items: center;
 }
 .sobre .psobre {
-  width: 587px;
-  height: 265px;
+  width: 45.859375vw;
+  height: 44.3143812709vh;
   font-size: 25px;
   align-items: center;
   text-align: left;
 }
 .sobre .imgsobre {
-  width: 365px;
-  height: 355px;
+  width: 28.515625vw;
+  height: 59.364548495vh;
 }
 
 .concientização {
@@ -63,18 +61,17 @@ header a {
   justify-content: space-around;
   background-color: #FF69B4;
   color: white;
-  width: 100%;
-  height: 262px;
+  height: 43.8127090301vh;
 }
 .concientização .imgconcientização {
-  width: 421px;
-  height: 234px;
+  width: 32.890625vw;
+  height: 39.1304347826vh;
 }
 .concientização .pconcientização {
   align-items: center;
   font-size: 25px;
-  width: 700px;
-  height: 174px;
+  width: 54.6875vw;
+  height: 29.0969899666vh;
 }
 
 .dicas {
@@ -82,18 +79,16 @@ header a {
   justify-content: space-evenly;
   align-items: center;
   background-color: #FFD9EC;
-  width: 100%;
-  height: 426px;
+  height: 71.237458194vh;
 }
 .dicas img {
-  width: 250px;
-  height: 250px;
+  width: 19.53125vw;
+  height: 41.8060200669vh;
 }
 
 footer {
   background-color: #FF69B4;
-  width: 100%;
-  height: 143px;
+  height: 23.9130434783vh;
   display: flex;
   align-items: center;
   justify-content: space-around;
@@ -102,22 +97,22 @@ footer .redes {
   justify-content: space-evenly;
 }
 footer .redes .link {
-  width: 57.84px;
-  height: 56px;
+  width: 4.51875vw;
+  height: 9.364548495vh;
 }
 footer .redes .insta {
-  width: 58px;
-  height: 60.04px;
+  width: 4.53125vw;
+  height: 10.0401337793vh;
 }
 footer .redes .git {
-  width: 67px;
-  height: 67px;
+  width: 5.234375vw;
+  height: 11.2040133779vh;
 }
 footer .info {
   text-align: center;
   font-size: 20px;
 }
 footer .laço {
-  width: 105px;
-  height: 109px;
+  width: 8.203125vw;
+  height: 18.2274247492vh;
 }/*# sourceMappingURL=style.css.map */
